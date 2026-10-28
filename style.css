@@ -1,0 +1,8 @@
+    body {
+            background-image: url("/imagenes/3.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+div {
+    background-color: rgba(241, 140, 6, 0.966);
+}
