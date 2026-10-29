@@ -6,6 +6,13 @@ body {
     margin: 0 auto;
     max-width: 1000px;
     padding: 24px;
+     
+            background-image: url(/imagenes/fondo.jpeg); 
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat; 
+            background-attachment: fixed; 
+        
 }
 
 header {
@@ -83,4 +90,7 @@ p {
     nav {
         gap: 6px 12px;
     }
+}
+.Fon {
+    background-color: #d8cfc0;
 }
